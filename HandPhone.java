@@ -4,7 +4,7 @@ public class HandPhone {
     String jenis_hp;
     int tahun_pembuatan;
     
- // Nama  : Yasir Mubarok
+// Nama    : Yasir Mubarok
 // Kelas    : TI21E
 // Nim      : 20210040069
 
