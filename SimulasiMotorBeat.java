@@ -5,7 +5,7 @@ package TugasSesi2;
         int porseneling;
         int kecepatan;
         
- // Nama  : Yasir Mubarok
+// Nama     : Yasir Mubarok
 // Kelas    : TI21E
 // Nim      : 20210040069
 
